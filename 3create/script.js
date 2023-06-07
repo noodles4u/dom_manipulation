@@ -1,35 +1,30 @@
 /*
  */
 
-console.log('blablabla');
+console.log('OK TEST GO');
+//
 
 const newSection = document.createElement('section');
+const newP = document.createElement('p');
+// const newStuff = document.createTextNode(
+//   'Running up that hill, shouting at the sky',
+// );
 
-const newStuff = document.createTextNode(
-  'Running up that hill, shouting at the sky',
-);
+const nameArray = ['Pierre', 'Paul', 'Panda'];
+// const nameTag = 'pierre';
 
-newSection.appendChild(newStuff);
-const testArt = document.getElementsByTagName('article')[0];
-const posMain = document.getElementsByTagName('main')[0];
-posMain.insertBefore(newSection, testArt);
-testArt.style.background = 'rgb(20, 24, 245)';
+const artPos = document.getElementsByTagName('article')[0];
+artPos.append(newSection);
 
-// document.body.onload = addElement;
+// color test
+artPos.style.background = 'rgb(20, 24, 245)';
 
-// function addElement() {
-//   // create a new div element
-//   const newDiv = document.createElement('div');
+// const randoColorP = (amountElements) => {
+//   for (let i = 0; i < amountElements; i++) {
+//     newSection.appendChild(newStuff);
+//     newSection.append(newP);
+//     newP.append(nameTag);
+//   }
+// };
 
-//   // and give it some content
-//   const newContent = document.createTextNode('Hi there and greetings!');
-
-//   // add the text node to the newly created div
-//   newDiv.appendChild(newContent);
-
-//   // add the newly created element and its content into the DOM
-//   const currentDiv = document.getElementsByTagName('article')[0];
-
-//   currentDiv.insertBefore(newDiv, currentDiv[0]);
-//   console.log(currentDiv);
-// }
+// randoColorP(3);
