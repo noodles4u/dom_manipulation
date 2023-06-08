@@ -21,7 +21,7 @@ const clickOnSquare = (e) => {
   const classAndTime = `
   ${getElapsedTime()}
   Created a new ${e.target.classList[1]} square`;
-  // newSquares();
+
   const div = document.createElement('div');
   div.setAttribute(`class`, `displayedsquare ${e.target.classList}`);
   displayed.append(div);
