@@ -30,10 +30,11 @@ Array.from(kids).forEach((kid) => {
   kid.style.backgroundColor = 'red';
 });
 
-// document.body.lastChildElement.remove();
+document.body.lastChildElement.remove();
 console.log(document.body.lastChild.text);
 let bodyNode = document.querySelectorAll('body');
 
 console.log(body.children[body.children.length - 2]);
 let footer = body.children[body.children.length - 2];
 footer.remove();
+document.body.lastElementChild.remove();
