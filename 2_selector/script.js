@@ -19,7 +19,7 @@ for (const imgDisplay of document.images) {
 }
 
 const allPara = document.getElementsByTagName('p');
-
+// allPara.style.border = '4px solid red';
 let child;
 for (child of allPara) {
   if (child.getAttribute('class', '')) {

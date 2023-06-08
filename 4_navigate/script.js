@@ -18,3 +18,9 @@ const h2 = document.querySelectorAll('h2');
 
 sections[1].insertBefore(h2[2], sections[1].children[0]);
 sections[2].insertBefore(h2[1], sections[2].children[0]);
+
+// third part
+const body = document.querySelector('body');
+// body.style.background = 'red';
+const kids = body.children;
+console.log(body.children);
