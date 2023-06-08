@@ -37,3 +37,55 @@ const actionSquares = document.querySelectorAll('.actionsquare');
 for (let actionSquare of actionSquares) {
   actionSquare.addEventListener('click', clickOnSquare);
 }
+const randomColor = () => {
+  r = Math.floor(Math.random() * 256);
+  g = Math.floor(Math.random() * 256);
+  b = Math.floor(Math.random() * 256);
+  return `rgb(${r}, ${g}, ${b})`;
+};
+document.addEventListener('keydown', (e) => {
+  if (e.isComposing || e.key === ' ') {
+    const randomColor = () => {
+      r = Math.floor(Math.random() * 256);
+      g = Math.floor(Math.random() * 256);
+      b = Math.floor(Math.random() * 256);
+      return `rgb(${r}, ${g}, ${b})`;
+    };
+
+    document.body.style.background = randomColor();
+
+    const classAndTime = `
+    ${getElapsedTime()}
+    Created a new color ${randomColor()} while pressing space`;
+
+    const li = document.createElement('li');
+    li.append(classAndTime);
+    list.append(li);
+  }
+  // do something
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.isComposing || e.key === 'l' || e.key === 'L') {
+    const li = document.querySelectorAll('li');
+    Array.from(li).forEach((item) => {
+      item.remove();
+    });
+  }
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.isComposing || e.key === 's' || e.key === 'S') {
+    const squares = document.querySelectorAll('.displayedsquare');
+    Array.from(squares).forEach((item) => {
+      item.remove();
+    });
+  }
+});
+const clickDisplay = (e) => {
+  if (e.target.tagName == 'DIV') {
+    return alert(`${e.target.classList[2]}`);
+  }
+};
+
+displayed.addEventListener('click', clickDisplay);
