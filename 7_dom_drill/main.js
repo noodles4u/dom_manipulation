@@ -12,10 +12,20 @@ console.log(ul.childNodes);
 // const findStuff = test.find((f) => {
 //   return f.innerText === 'Fast and Furious';
 // });
-
+ul.style.cursor = 'pointer';
+console.log(ul.childNodes[0]);
 for (each of ul.childNodes) {
   if (each.nodeType === 1) {
     console.log(each.innerText);
+    if (each.innerText === 'Fast and Furious') {
+      console.log('found');
+      each.setAttribute('class', 'important');
+
+      ul.insertBefore(each, ul.childNodes[0]);
+    }
+    each.addEventListener('click', (e) => {
+      alert(e.target.innerHTML);
+    });
   }
 }
 // console.log(ul.childNodes);
