@@ -49,7 +49,7 @@ for (let i = 0; i < itemsLi.length; i++) {
     }
   }
 }
-
+let impo = document.getElementsByClassName('important')[0];
 body.addEventListener('keyup', (e) => {
   const liRandom = itemsLi;
 
@@ -67,7 +67,6 @@ body.addEventListener('keyup', (e) => {
     }
   }
   if (e.isComposing || e.key === 'd' || e.key === 'D') {
-    let impo = document.getElementsByClassName('important')[0];
     // impo.style.background = 'red';
     console.log(impo);
     let clone;
@@ -80,10 +79,68 @@ body.addEventListener('keyup', (e) => {
 // create element
 
 let newDiv = document.createElement('div');
-newDiv.innerText = 'hello world';
+let select = document.createElement('select');
+let optionsText = [
+  'important franchise',
+  'normal franchise',
+  'rando franchise',
+  'independent cinema',
+  'arthouse',
+];
+newDiv.append(select);
+const optionAdder = (optNr) => {
+  for (let i = 0; i < optNr; i++) {
+    let options = document.createElement('option');
+    options.innerText = optionsText[i];
+    select.append(options);
+  }
+};
 
-ul.prepend(newDiv);
+optionAdder(5);
 
+//
+ul.insertAdjacentHTML('beforebegin', newDiv.outerHTML);
+//
+select = document.querySelector('select');
+select.addEventListener('change', (e) => {
+  switch (e.target.value) {
+    case 'important franchise':
+      impo.style.background = 'red';
+      console.log('hello');
+      for (item of itemsLi) {
+        if (item.className !== 'important' && item.nodeType === 1) {
+          item.style.visibility = 'hidden';
+          console.log(item);
+        }
+      }
+      break;
+    case 'normal franchise':
+      ul.style.background = 'yellow';
+      alert('fuck yeah');
+      for (item of itemsLi) {
+        if (item.nodeType === 1) {
+          item.style.visibility = 'visible';
+        }
+      }
+      break;
+    case 'arthouse':
+      ul.style.background = 'purple';
+      alert('No arthouse here');
+      for (item of itemsLi) {
+        if (item.nodeType === 1) {
+          item.style.visibility = 'visible';
+        }
+      }
+      break;
+    default:
+      for (item of itemsLi) {
+        if (item.nodeType === 1) {
+          item.style.visibility = 'visible';
+        }
+      }
+      alert('Nothing here');
+  }
+});
 // outer.HTHML needed when using AdjacentElement
 // ul.insertAdjacentHTML('beforebegin', newDiv.outerHTML);
 // ///// OLD
