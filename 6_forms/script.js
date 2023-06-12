@@ -16,7 +16,7 @@ sections[0].addEventListener('keyup', (e) => {
   if (e.target.id == 'firstname') {
     document.body.style.background = 'coral';
     //   if (e.key.length === 1) {
-    //     document.getElementById('display-firstname').append(e.key);
+    //     document.getElementById('displa y-firstname').append(e.key);
     //   }
   }
   const check = (displayText.innerHTML = e.target.value);
