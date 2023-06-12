@@ -1,5 +1,6 @@
 const list = document.querySelectorAll('li');
 const ul = document.querySelector('ul');
+const body = document.body;
 // console.log(list);
 
 // Array.from(list).forEach((i) => {
@@ -48,18 +49,43 @@ for (let i = 0; i < itemsLi.length; i++) {
     }
   }
 }
-const liRandom = itemsLi;
-for (let o = 0; o < liRandom.length / 2; o++) {
-  if (itemsLi[o].nodeType === 1) {
-    let rando = Math.floor(Math.random() * liRandom.length);
 
-    if (o < liRandom.length / 2) {
-      ul.insertBefore(liRandom[rando], itemsLi[1]);
+body.addEventListener('keyup', (e) => {
+  const liRandom = itemsLi;
 
-      console.log(rando);
-    } else ul.append(liRandom[rando]);
+  if (e.isComposing || e.key === 'r' || e.key === 'R') {
+    for (let o = 0; o < liRandom.length / 2; o++) {
+      if (itemsLi[o].nodeType === 1) {
+        let rando = Math.floor(Math.random() * liRandom.length);
+
+        if (o < liRandom.length / 2) {
+          ul.insertBefore(liRandom[rando], itemsLi[1]);
+
+          console.log(rando);
+        } else ul.append(liRandom[rando]);
+      }
+    }
   }
-}
+  if (e.isComposing || e.key === 'd' || e.key === 'D') {
+    let impo = document.getElementsByClassName('important')[0];
+    // impo.style.background = 'red';
+    console.log(impo);
+    let clone;
+    clone = impo.cloneNode(impo);
+
+    impo.insertAdjacentElement('afterend', clone);
+  }
+});
+
+// create element
+
+let newDiv = document.createElement('div');
+newDiv.innerText = 'hello world';
+
+ul.prepend(newDiv);
+
+// outer.HTHML needed when using AdjacentElement
+// ul.insertAdjacentHTML('beforebegin', newDiv.outerHTML);
 // ///// OLD
 // for (each of ul.childNodes) {
 //   if (each.nodeType === 1) {
