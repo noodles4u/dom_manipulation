@@ -23,13 +23,14 @@ for (let i = 0; i < itemsLi.length; i++) {
     // console.log(itemsLi[i].innerText);
     //style
     itemsLi[i].style.cursor = 'pointer';
-
+    //  eventListener important message
     itemsLi[i].addEventListener('click', (e) => {
       if (e.target.className === 'important') {
         alert(importantMessage);
       } else alert(e.target.innerHTML);
     });
 
+    //  find content
     if (itemsLi[i].innerText === 'Fast and Furious') {
       console.log('found');
       itemsLi[i].setAttribute('class', 'important');
@@ -47,7 +48,18 @@ for (let i = 0; i < itemsLi.length; i++) {
     }
   }
 }
+const liRandom = itemsLi;
+for (let o = 0; o < liRandom.length / 2; o++) {
+  if (itemsLi[o].nodeType === 1) {
+    let rando = Math.floor(Math.random() * liRandom.length);
 
+    if (o < liRandom.length / 2) {
+      ul.insertBefore(liRandom[rando], itemsLi[1]);
+
+      console.log(rando);
+    } else ul.append(liRandom[rando]);
+  }
+}
 // ///// OLD
 // for (each of ul.childNodes) {
 //   if (each.nodeType === 1) {
