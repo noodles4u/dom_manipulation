@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer';
-// puppeteer = require('puppeteer');
+
 import { Browser } from 'puppeteer';
 import fs from 'fs';
 
