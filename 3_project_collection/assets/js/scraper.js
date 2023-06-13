@@ -1,6 +1,8 @@
 import puppeteer from 'puppeteer';
 // puppeteer = require('puppeteer');
 import { Browser } from 'puppeteer';
+import fs from 'fs';
+
 console.log('test');
 
 const url = 'https://cinematek.be/programma/kalender';
@@ -25,10 +27,18 @@ const main = async () => {
       time: film.querySelector(
         'div.col-12.col-md-2.d-flex.justify-content-between.flex-md-column.flex-row.align-self-center h4.screening__time',
       ).innerText,
+
+      location: film.querySelector(
+        'div.col-12.col-md-2.d-flex.justify-content-between.flex-md-column.flex-row.align-self-center p span.badge.icon.screening__location',
+      ).innerText,
     }));
     return data;
   });
   console.log(CineData);
   await browser.close();
+  fs.writeFile('cine_data.json', JSON.stringify(CineData), (err) => {
+    if (err) throw err;
+    console.log('Success boys & girls');
+  });
 };
 main();

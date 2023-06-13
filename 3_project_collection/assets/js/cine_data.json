@@ -1,0 +1,1405 @@
+[
+  { "title": "Les Diaboliques", "time": "15:00", "location": "ledoux" },
+  {
+    "title": "Les Glaneurs et la Glaneuse",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Fargo", "time": "19:00", "location": "Ledoux" },
+  { "title": "A Bill of Divorcement", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Sans anesthésie ⁄ Without Anesthesia ⁄ Bez Znieczulenia",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Horizons perdus ⁄ Lost Horizon",
+    "time": "18:00",
+    "location": "Plateau"
+  },
+  {
+    "title": "J'ai faim, j'ai froid + Sans toit ni loi",
+    "time": "19:00",
+    "location": "Ledoux"
+  },
+  {
+    "title": "La ville est tranquille",
+    "time": "20:30",
+    "location": "plateau"
+  },
+  { "title": "Old Boy ⁄ Oldeuboi", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "Le Narcisse noir ⁄ Black Narcissus",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "Morning Glory", "time": "18:00", "location": "plateau" },
+  { "title": "Les Diaboliques", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Die Weisse Holle von Piz Palü",
+    "time": "20:00",
+    "location": "Plateau"
+  },
+  {
+    "title": "La Mort suspendue ⁄ Touching the Void",
+    "time": "21:15",
+    "location": "Ledoux"
+  },
+  {
+    "title": "Le Père Serge ⁄ Otec Sergej",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Quatre Filles du docteur March ⁄ Little Women",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Glaneurs et la Glaneuse",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Fargo", "time": "19:15", "location": "Ledoux" },
+  {
+    "title": "The White Reindeer  ⁄ Une légende de Laponie ⁄ Valkoinen Peura",
+    "time": "20:00",
+    "location": "Plateau"
+  },
+  {
+    "title": "La Jeunesse d’Ivan ⁄ Ivan’s jeugd ⁄ Ivanovo Detstvo",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "La ville est tranquille",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Oorlogswinter", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Horizons perdus ⁄ Lost Horizon",
+    "time": "20:30",
+    "location": "Plateau"
+  },
+  { "title": "Citizen Kane", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "The White Reindeer  ⁄ Une légende de Laponie ⁄ Valkoinen Peura",
+    "time": "18:00",
+    "location": "Plateau"
+  },
+  {
+    "title": "Afterimage No. 1 1970   Film and Politics",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "L’Amour de Jeanne Ney ⁄ Die Liebe der Jeanne Ney",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Licht", "time": "21:00", "location": "ledoux" },
+  { "title": "A Bill of Divorcement", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Afterimage No. 2   1970 Avant-Garde Film",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Morning Glory", "time": "20:00", "location": "plateau" },
+  { "title": "Dobermann", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Désirs secrets ⁄Alice Adams",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Chevauchée infernale ⁄ Symbol of the Unconquered",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Sans anesthésie ⁄ Without Anesthesia ⁄ Bez Znieczulenia",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Die Weisse Holle von Piz Palü",
+    "time": "20:00",
+    "location": "Plateau"
+  },
+  {
+    "title": "J'ai faim, j'ai froid + Sans toit ni loi",
+    "time": "21:15",
+    "location": "Ledoux"
+  },
+  {
+    "title": "La ville est tranquille",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Sylvia Scarlett", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "The White Reindeer  ⁄ Une légende de Laponie ⁄ Valkoinen Peura",
+    "time": "20:30",
+    "location": "Plateau"
+  },
+  { "title": "Fargo", "time": "21:00", "location": "Ledoux" },
+  {
+    "title": "Afterimage No. 3 1971  Third World Cinema    L’Heure des brasiers: néocolonialisme et violence ⁄ La hora de los hornos",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Morane le marin ⁄ Moran of the Lady Letty",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Citizen Kane", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Horizons perdus ⁄ Lost Horizon",
+    "time": "20:00",
+    "location": "Plateau"
+  },
+  { "title": "Shining ⁄ The Shining", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "La Jeunesse d’Ivan ⁄ Ivan’s jeugd ⁄ Ivanovo Detstvo",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Désirs secrets ⁄Alice Adams",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "Battleground", "time": "18:00", "location": "Plateau" },
+  { "title": "Old Boy ⁄ Oldeuboi", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "La Rebelle ⁄ A Woman Rebels",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  {
+    "title": "Afterimage No. 4 1972   For a New Cinema",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "Quality Street", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Afterimage No. 5 1974   Aesthetics/Ideology/Cinema   Gertrud",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "La Patinoire", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Anges gardiens ⁄ Freebie and the Bean",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "L’Amour de Jeanne Ney ⁄ Die Liebe der Jeanne Ney",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Shining ⁄ The Shining", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "The White Reindeer  ⁄ Une légende de Laponie ⁄ Valkoinen Peura",
+    "time": "20:00",
+    "location": "Plateau"
+  },
+  {
+    "title": "Floating Clouds ⁄ Nuages flottants ⁄ Ukigumo",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Rebelle ⁄ A Woman Rebels",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Always - Pour toujours ⁄ Always",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Frozen River", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Le Narcisse noir ⁄ Black Narcissus",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "Citizen Kane", "time": "15:00", "location": "ledoux" },
+  {
+    "title": "Horizons perdus ⁄ Lost Horizon",
+    "time": "18:00",
+    "location": "Plateau"
+  },
+  { "title": "Soleil Ô", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "La Chevauchée infernale ⁄ Symbol of the Unconquered",
+    "time": "20:30",
+    "location": "plateau"
+  },
+  { "title": "Vorace ⁄ Ravenous", "time": "21:00", "location": "ledoux" },
+  { "title": "Quality Street", "time": "18:00", "location": "plateau" },
+  {
+    "title": "La Jeunesse d’Ivan ⁄ Ivan’s jeugd ⁄ Ivanovo Detstvo",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Glaneurs et la Glaneuse",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Afterimage No. 6 1976   Perspectives on English Independent Film",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Afterimage No. 13 1987   Animating the Fantastic",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "Stage Door", "time": "18:00", "location": "plateau" },
+  { "title": "Bringing Up Baby", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "The Thing from Another World",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Shining ⁄ The Shining", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Afterimage No. 12 1985   Derek Jarman - Of Angels and Apocalypse",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Always - Pour toujours ⁄ Always",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Procès de Jeanne d’Arc",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Les Communiants ⁄ De avondmaalsgasten ⁄ Nattvardsgasterna",
+    "time": "19:15",
+    "location": "ledoux"
+  },
+  { "title": "Battleground", "time": "20:00", "location": "Plateau" },
+  {
+    "title": "Afterimage No. 11 1982/83   Sighting Snow   La Région centrale",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Femme sans visage ⁄ Woman Without a Face ⁄ Kvinna Utan Ansikte",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Afterimage No. 10  1981   Myths of Total Cinema",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Un ticket pour deux ⁄ Planes, Trains & Automobiles",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Holiday", "time": "21:00", "location": "ledoux" },
+  { "title": "La Patinoire", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Cold Days ⁄ Jours glacés ⁄ Hideg Napok",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Revoljucioner", "time": "20:00", "location": "plateau" },
+  { "title": "Soleil Ô", "time": "21:00", "location": "ledoux" },
+  { "title": "Stage Door", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Indiscrétions ⁄ The Philadelphia Story",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Symphonie paysanne", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Afterimage No. 7 1978  Hearing:Seeing  Kristina Talking Pictures",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Floating Clouds ⁄ Nuages flottants ⁄ Ukigumo",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Arènes sanglantes ⁄ Blood and Sand",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Les Communiants ⁄ De avondmaalsgasten ⁄ Nattvardsgasterna",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Frozen River", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Afterimage No. 8/9 1981   Beginning … and Beginning Again",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Procès de Jeanne d’Arc",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "No No Nooky +  Out Loud +  Rainbow Lovers Remix +  Anything Goes +  La Machine avalée +  SID A IDS +  DiAna’s Hair Ego: AIDS Info Up Front + DiAna’s Hair Ego REMIX",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Passeur ⁄ Pathfinder ⁄ Ofelas",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Vrouw van het jaar ⁄ La Femme de l’année ⁄ Woman of the Year",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "The Thing from Another World",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Le Labyrinthe des passions ⁄ Labyrinth of Passion ⁄ Laberinto de pasiones",
+    "time": "19:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "Morane le marin ⁄ Moran of the Lady Letty",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "La Lutte contre le froid + The Thing",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "Miracolo A Milano", "time": "15:00", "location": "ledoux" },
+  { "title": "La Main du diable", "time": "17:00", "location": "ledoux" },
+  { "title": "Paisà", "time": "18:00", "location": "plateau" },
+  {
+    "title": "New York - Miami ⁄ It Happened One Night",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Stage Door", "time": "20:15", "location": "plateau" },
+  {
+    "title": "After the Wedding ⁄ Efter bryllupet",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "Dirigible", "time": "18:00", "location": "plateau" },
+  { "title": "Keeper of the Flame", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Le Procès de Jeanne d’Arc",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Une charrette pour Vienne ⁄ Carriage to Vienna ⁄ Kocár do Vídne",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "Revoljucioner", "time": "18:00", "location": "plateau" },
+  { "title": "Miracolo A Milano", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "La Femme sans visage ⁄ Woman Without a Face ⁄ Kvinna Utan Ansikte",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Misery", "time": "21:00", "location": "ledoux" },
+  { "title": "Paisà", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Rencontres au bout du monde ⁄Encounters at the End of the World",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Un ticket pour deux ⁄ Planes, Trains & Automobiles",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  { "title": "Undercurrent", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "New York - Miami ⁄ It Happened One Night",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Passeur ⁄ Pathfinder ⁄ Ofelas",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "La Lutte contre le froid + The Thing",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Arènes sanglantes ⁄ Blood and Sand",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Le Labyrinthe des passions ⁄ Labyrinth of Passion ⁄ Laberinto de pasiones",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "The Sea of Grass", "time": "18:00", "location": "plateau" },
+  {
+    "title": "La Créature du marais ⁄ Swamp Thing",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Symphonie paysanne", "time": "20:15", "location": "plateau" },
+  {
+    "title": "Le Lac maléfique ⁄ Demon Pond ⁄ Yashagaike",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Comment l’esprit vient aux femmes ⁄ Born Yesterday",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Si tous les gars du monde",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Dirigible", "time": "20:00", "location": "plateau" },
+  { "title": "La Main du diable", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Les Débuts d'un patineur + Nanook of the North",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  { "title": "State of the Union", "time": "17:00", "location": "ledoux" },
+  {
+    "title": "Hallelujah les collines ⁄ Hallelujah the Hills",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Et Dieu... créa la femme",
+    "time": "19:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Procès de Jeanne d’Arc",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Conte d’hiver", "time": "21:00", "location": "ledoux" },
+  { "title": "Adam’s Rib", "time": "18:00", "location": "plateau" },
+  { "title": "101 Reykjavik", "time": "19:00", "location": "ledoux" },
+  { "title": "Paisà", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Les Liaisons dangereuses",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Jack Frost + Dom v sugrobah",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "No Country for Old Men", "time": "19:00", "location": "ledoux" },
+  { "title": "Dirigible", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Le Fanfaron ⁄ Il Sorpasso",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "Le Combat dans l’île", "time": "18:00", "location": "plateau" },
+  { "title": "Conte d’hiver", "time": "19:00", "location": "ledoux" },
+  { "title": "The Sea of Grass", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Liaisons dangereuses",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Hallelujah les collines ⁄ Hallelujah the Hills",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Comment l’esprit vient aux femmes ⁄ Born Yesterday",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Petite marchande d'allumettes",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Un homme et une femme", "time": "21:00", "location": "ledoux" },
+  { "title": "Trans-Europ-Express", "time": "18:00", "location": "plateau" },
+  {
+    "title": "The Tenant ⁄ Le Locataire",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Si tous les gars du monde",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Rencontres au bout du monde ⁄Encounters at the End of the World",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "Feux croisés ⁄ Crossfire",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Berg-ejvind Och Hans Hustru + Au pays des glaces",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Tropical Malady ⁄ Sud pralad",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Adam’s Rib", "time": "20:15", "location": "plateau" },
+  {
+    "title": "Une charrette pour Vienne ⁄ Carriage to Vienna ⁄ Kocár do Vídne",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Reine africaine ⁄ The African Queen",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  { "title": "Un homme et une femme", "time": "17:00", "location": "ledoux" },
+  { "title": "Paisà", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Le Grand Silence ⁄ Il grande silenzio",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Le Combat dans l’île", "time": "20:15", "location": "plateau" },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "Pat and Mike", "time": "18:00", "location": "plateau" },
+  {
+    "title": "La Maison dans l’ombre ⁄ On Dangerous Ground",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Trans-Europ-Express", "time": "20:00", "location": "plateau" },
+  { "title": "Z", "time": "21:00", "location": "ledoux" },
+  { "title": "Summertime", "time": "18:00", "location": "plateau" },
+  { "title": "Ma nuit chez Maud", "time": "19:00", "location": "ledoux" },
+  { "title": "Jack Frost", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Le Jour d’après ⁄ The Day After Tomorrow",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "Le Combat dans l’île", "time": "18:00", "location": "plateau" },
+  { "title": "Desk Set", "time": "19:00", "location": "ledoux" },
+  { "title": "Adam’s Rib", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Le Grand Silence ⁄ Il grande silenzio",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Soudain l’été dernier ⁄ Suddenly, Last Summer",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Petite marchande d'allumettes",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "The Tenant ⁄ Le Locataire",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "L’Homme qui ment", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Cliffhanger, traque au sommet ⁄ Cliffhanger",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "L’Auberge rouge", "time": "18:00", "location": "plateau" },
+  { "title": "La Peau douce", "time": "19:00", "location": "ledoux" },
+  { "title": "Trans-Europ-Express", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Long Day’s Journey into Night",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "Il Conformista", "time": "17:00", "location": "ledoux" },
+  { "title": "Summertime", "time": "18:00", "location": "plateau" },
+  { "title": "No Country for Old Men", "time": "19:15", "location": "ledoux" },
+  {
+    "title": "Berg-ejvind Och Hans Hustru + Au pays des glaces",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Z", "time": "21:30", "location": "ledoux" },
+  { "title": "Le Banni ⁄ The Outlaw", "time": "15:00", "location": "ledoux" },
+  { "title": "Les Survivants ⁄ Alive", "time": "17:00", "location": "ledoux" },
+  { "title": "Le Train", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Soudain l’été dernier ⁄ Suddenly, Last Summer",
+    "time": "19:15",
+    "location": "ledoux"
+  },
+  { "title": "Pat and Mike", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Pique-nique à Hanging Rock ⁄ Picnic at Hanging Rock",
+    "time": "21:30",
+    "location": "ledoux"
+  },
+  {
+    "title": "L’Opéra de quat’ sous ⁄ Die Dreigroschenoper",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Une journée bien remplie ou Neuf meurtres insolites dans une même journée par un seul homme dont ce n’est pas le métier ⁄ Une journée bien remplie",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Maison dans l’ombre ⁄ On Dangerous Ground",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  { "title": "Santa Sangre", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Sojuz velikogo dela + Bataille de Neige",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Guess Who’s Coming to Dinner",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Le Maître nageur", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Cold Fever ⁄ Á köldum klaka",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "L’Homme qui ment", "time": "18:00", "location": "plateau" },
+  { "title": "Kasongo (im)matériel", "time": "19:00", "location": "ledoux" },
+  { "title": "Summertime", "time": "20:00", "location": "plateau" },
+  { "title": "Il Conformista", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Le Fanfaron ⁄ Il Sorpasso",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "L’Opéra de quat’ sous ⁄ Die Dreigroschenoper",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Noi albinoi", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Der Captain Discovers the North Pole + Die Frau im Mond",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "The Lion in Winter", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "La Folle de Chaillot ⁄ The Madwoman of Chaillot",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Cosmic Ray", "time": "19:00", "location": "ledoux" },
+  { "title": "Le Train", "time": "20:15", "location": "plateau" },
+  {
+    "title": "Les Anges de la nuit ⁄ State of Grace",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Duellistes ⁄ The Duellists",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Herr Arnes pengar + Leçon de patinage",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Pique-nique à Hanging Rock ⁄ Picnic at Hanging Rock",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Schatten über der Welt", "time": "20:00", "location": "plateau" },
+  { "title": "La Peau douce", "time": "21:15", "location": "ledoux" },
+  { "title": "Être et avoir", "time": "15:00", "location": "ledoux" },
+  {
+    "title": "Passion d’amour ⁄ Passione d’amore",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "Missile", "time": "18:00", "location": "plateau" },
+  {
+    "title": "4 Months, 3 Weeks and 2 Days ⁄ 4 mois, 3 semaines et 2 jours ⁄ 4 luni, 3 saptamâni si 2 zile",
+    "time": "19:15",
+    "location": "ledoux"
+  },
+  { "title": "L’Auberge rouge", "time": "20:15", "location": "plateau" },
+  {
+    "title": "Sang pour sang ⁄ Blood Simple",
+    "time": "21:30",
+    "location": "ledoux"
+  },
+  { "title": "Schatten über der Welt", "time": "18:00", "location": "plateau" },
+  { "title": "Malevil", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "La Dernière Chance ⁄ Die Letzte Chance",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Une Bible et un fusil ⁄ Rooster Cogburn",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Maison du lac ⁄ On Golden Pond",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Le Banni ⁄ The Outlaw", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Sojuz velikogo dela + Bataille de Neige",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Cosmic Ray", "time": "21:00", "location": "ledoux" },
+  { "title": "Le Maître nageur", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Shadow Makers ⁄ Les Maîtres de l’ombre ⁄ Fat Man and Little Boy",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Folle de Chaillot ⁄ The Madwoman of Chaillot",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Eaux profondes", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "Une Bible et un fusil ⁄ Rooster Cogburn",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Der Captain Discovers the North Pole + Die Frau im Mond",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "4 Months, 3 Weeks and 2 Days ⁄ 4 mois, 3 semaines et 2 jours ⁄ 4 luni, 3 saptamâni si 2 zile",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Missile", "time": "20:15", "location": "plateau" },
+  { "title": "La Nuit de Varennes", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "Baïonnette au canon ⁄ Fixed Bayonets!",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "The Terminal Man", "time": "19:00", "location": "ledoux" },
+  { "title": "Schatten über der Welt", "time": "20:00", "location": "plateau" },
+  { "title": "Black Rainbow", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "L’Étrange Monsieur Victor",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Treize jours ⁄ Thirteen Days",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Vivement dimanche!", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Herr Arnes pengar + Leçon de patinage",
+    "time": "20:45",
+    "location": "plateau"
+  },
+  { "title": "Cosmic Ray", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Operation Cold Feet + La Marche de l'empereur (V: FR)",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Polar Pests + La Marche de l’empereur (V: NL)",
+    "time": "15:30",
+    "location": "plateau"
+  },
+  {
+    "title": "La Vipère ⁄ The Little Foxes",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "White Fang", "time": "18:00", "location": "plateau" },
+  { "title": "Viva la vie", "time": "19:15", "location": "ledoux" },
+  {
+    "title": "La Maison du lac ⁄ On Golden Pond",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Santa Sangre", "time": "21:30", "location": "ledoux" },
+  { "title": "Under Fire", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Atanarjuat - La légende de l’homme rapide ⁄ Atanarjuat, the Fast Runner",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Missile", "time": "20:30", "location": "plateau" },
+  {
+    "title": "Sur les bords de la caméra",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Rendez-vous", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Pluie noire ⁄ Zwatre regen ⁄ Kuroi ame",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Testament", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "La Maison du lac ⁄ On Golden Pond",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Être et avoir", "time": "19:00", "location": "ledoux" },
+  { "title": "La Femme de ma vie", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Un plan simple ⁄ A Simple Plan",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "Vivement dimanche!", "time": "15:00", "location": "ledoux" },
+  {
+    "title": "La Dernière Chance ⁄ Die Letzte Chance",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Les Duellistes ⁄ The Duellists",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Swope le cruel ⁄ The Bloodship",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "USS Alabama ⁄ Crimson Tide",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "White Fang", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Sang pour sang ⁄ Blood Simple",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Treize jours ⁄ Thirteen Days",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Un homme et une femme, 20 ans déjà",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "L’Impératrice rouge ⁄ The Scarlet Empress",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "L’Opéra de quat’ sous ⁄ Die Dreigroschenoper",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Sur les ailes de la danse ⁄ Swing Time",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Winter’s Bone", "time": "20:15", "location": "plateau" },
+  { "title": "Le Sacrifice ⁄ Offret", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Ice Cold Cocos + The Gold Rush",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Crime passionnel ⁄ Fallen Angel",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "WarGames", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Chungking Express ⁄ Chung Hing sam lam",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Baïonnette au canon ⁄ Fixed Bayonets!",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  { "title": "Excalibur", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Mon chemin ⁄ Így jöttem",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "La Vipère ⁄ The Little Foxes",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "Under Fire", "time": "20:00", "location": "plateau" },
+  { "title": "Bunker Palace Hôtel", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "Sur les bords de la caméra",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "L’Étrange Monsieur Victor",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Treize jours ⁄ Thirteen Days",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Blast from the Past", "time": "21:00", "location": "ledoux" },
+  { "title": "La Femme de ma vie", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Une histoire vraie ⁄ The Straight Story",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Pluie noire ⁄ Zwatre regen ⁄ Kuroi ame",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Merci la vie", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "Le Tombeau des lucioles ⁄ Grave of the Fireflies ⁄ Hotaru no haka",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Swope le cruel ⁄ The Bloodship",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Ice Storm ⁄ The Ice Storm",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "The Day After", "time": "20:00", "location": "plateau" },
+  { "title": "Le Sacrifice ⁄ Offret", "time": "21:00", "location": "ledoux" },
+  { "title": "Winter’s Bone", "time": "18:00", "location": "plateau" },
+  { "title": "Crossroads", "time": "19:00", "location": "ledoux" },
+  { "title": "L' Atome", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Torrents d’amour ⁄ Love Streams",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "Crime passionnel ⁄ Fallen Angel",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Droit d’aimer ⁄ The Single Standard",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Trois couleurs : Rouge", "time": "19:00", "location": "ledoux" },
+  { "title": "WarGames", "time": "20:00", "location": "plateau" },
+  {
+    "title": "John McCabe ⁄ McCabe & Mrs. Miller",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Sur les ailes de la danse ⁄ Swing Time",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Tombeau des lucioles ⁄ Grave of the Fireflies ⁄ Hotaru no haka",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Mr. Forbush and the Penguins",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Chungking Express ⁄ Chung Hing sam lam",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Monstres ⁄ I mostri",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  { "title": "Excalibur", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Reminiscences of a Journey to Lithuania",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Vaudou ⁄ I Walked with a Zombie",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Castagne ⁄ Slap Shot",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Stalingrad", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "La Coquille et le Clergyman",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Die Hard 2 - 58 minutes pour vivre ⁄ Die Hard 2",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "The Day After", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Regarde les hommes tomber",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  { "title": "L' Atome", "time": "18:00", "location": "plateau" },
+  { "title": "La Classe de neige", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Mon chemin ⁄ Így jöttem",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Appel d’urgence ⁄ Miracle Mile",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "John McCabe ⁄ McCabe & Mrs. Miller",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Antartica ⁄ Nankyoku monogatari",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Le Tombeau des lucioles ⁄ Grave of the Fireflies ⁄ Hotaru no haka",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Mains d’Orlac ⁄ Orlacs Hände",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "The City of Lost Children ⁄ La Cité des enfants perdus",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Mr. Forbush and the Penguins",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Le Mépris", "time": "19:00", "location": "ledoux" },
+  { "title": "Fiesta", "time": "20:15", "location": "plateau" },
+  { "title": "Hamlet", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Vaudou ⁄ I Walked with a Zombie",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  { "title": "The Day After", "time": "18:00", "location": "plateau" },
+  {
+    "title": "Star Wars: Episode V + Chilly Willy",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Droit d’aimer ⁄ The Single Standard",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  {
+    "title": "Une histoire vraie ⁄ The Straight Story",
+    "time": "21:30",
+    "location": "ledoux"
+  },
+  { "title": "I'm Cold + Happy Feet", "time": "15:00", "location": "ledoux" },
+  {
+    "title": "L’Impératrice rouge ⁄ The Scarlet Empress",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Castagne ⁄ Slap Shot",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Un héros très discret", "time": "19:00", "location": "ledoux" },
+  { "title": "When the Wind Blows", "time": "20:15", "location": "plateau" },
+  {
+    "title": "Torrents d’amour ⁄ Love Streams",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Monstres ⁄ I mostri",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Faux-semblants ⁄ Dead Ringers",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Dernier rivage ⁄ On the Beach",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  {
+    "title": "Home for Christmas ⁄ Hjem til jul",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "La Castagne ⁄ Slap Shot",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "Janis et John", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "La Coquille et le Clergyman",
+    "time": "20:15",
+    "location": "plateau"
+  },
+  { "title": "Broken Arrow", "time": "21:00", "location": "ledoux" },
+  { "title": "Fiesta", "time": "18:00", "location": "plateau" },
+  { "title": "They Live", "time": "19:00", "location": "ledoux" },
+  { "title": "When the Wind Blows", "time": "20:00", "location": "plateau" },
+  {
+    "title": "Dersou Ouzala ⁄ Dersu Uzala",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  { "title": "Le Mépris", "time": "15:00", "location": "ledoux" },
+  {
+    "title": "Hiver 54, l’abbé Pierre",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Le Jour où la Terre prit feu ⁄ The Day the Earth Caught Fire",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Cauchemar de Za-la-vie ⁄ Zalamort",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Amour", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Reminiscences of a Journey to Lithuania",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Poisonous Caress ⁄ L’Étreinte empoisonnée ⁄ Doku no aru aibu",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "The Manhattan Project", "time": "20:00", "location": "plateau" },
+  {
+    "title": "The Love Robots ⁄ Le Camp des filles perdues ⁄ Shiro no jinzô bijo",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Sérénade à trois ⁄ Design for Living",
+    "time": "17:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "The Cat and the Canary ⁄ Le Chat et le Canari",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Circumstance ⁄ En secret ⁄ Sharayet",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  { "title": "When the Wind Blows", "time": "20:00", "location": "plateau" },
+  { "title": "Synecdoche, New York", "time": "21:15", "location": "ledoux" },
+  {
+    "title": "Star Wars: Episode V + Chilly Willy",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  { "title": "Hamlet", "time": "17:15", "location": "ledoux" },
+  {
+    "title": "Antartica ⁄ Nankyoku monogatari",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "How I Ended This Summer ⁄ Comment j’ai passé cet été ⁄ Kak ya provyol etim letom",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  { "title": "Le Mépris", "time": "21:00", "location": "ledoux" },
+  {
+    "title": "Hiver 54, l’abbé Pierre",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Rhapsodie en août ⁄ Rhapsody in August ⁄ Hachigatsu no rapusodî",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Reminiscences of a Journey to Lithuania",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Faux témoin ⁄ The Bedroom Window",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Les Mains d’Orlac ⁄ Orlacs Hände",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "9mm", "time": "19:00", "location": "ledoux" },
+  {
+    "title": "Les Monstres ⁄ I mostri",
+    "time": "20:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Dersou Ouzala ⁄ Dersu Uzala",
+    "time": "21:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "How I Ended This Summer ⁄ Comment j’ai passé cet été ⁄ Kak ya provyol etim letom",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  {
+    "title": "Faux-semblants ⁄ Dead Ringers",
+    "time": "19:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Dernier rivage ⁄ On the Beach",
+    "time": "20:30",
+    "location": "plateau"
+  },
+  {
+    "title": "Le Pacificateur ⁄ The Peacemaker",
+    "time": "21:15",
+    "location": "ledoux"
+  },
+  {
+    "title": "Sérénade à trois ⁄ Design for Living",
+    "time": "15:00",
+    "location": "ledoux"
+  },
+  {
+    "title": "Le Cauchemar de Za-la-vie ⁄ Zalamort",
+    "time": "18:00",
+    "location": "plateau"
+  },
+  { "title": "They Live", "time": "19:00", "location": "ledoux" },
+  { "title": "The Manhattan Project", "time": "20:00", "location": "plateau" },
+  { "title": "Amour", "time": "21:00", "location": "ledoux" }
+]
