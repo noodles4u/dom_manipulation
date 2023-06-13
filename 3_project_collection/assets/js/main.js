@@ -307,14 +307,22 @@ progData.forEach((el) => {
 
 // load json async later https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
-// Attribution
+// Attribution tmdb to be used later
 
-let attribution = document.createElement('div');
-let imgAttr = document.createElement('img');
+// let attribution = document.createElement('div');
+// let imgAttr = document.createElement('img');
 
-imgAttr.style.maxHeight = '3em';
-imgAttr.src =
-  'https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_1-5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4.svg';
+// imgAttr.style.maxHeight = '3em';
+// imgAttr.src =
+//   'https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_1-5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4.svg';
 
-attribution.append(imgAttr);
-document.body.append(attribution);
+// attribution.append(imgAttr);
+// document.body.append(attribution);
+
+const fetching =()=> {
+fetch(http://www.omdbapi.com/?apikey=[your-apikey]&s=batman)
+ .then((success) => { success.json() } )
+ .then((movies) => { console.log(movies) } )
+ .catch((error)=>{ console.log(error)});
+
+}
