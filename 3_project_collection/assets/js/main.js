@@ -1,5 +1,27 @@
-'use strict';
+const progData = [];
 
+const fetchy = (progData) => {
+  fetch('./assets/js/json/cine.json', {
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+  })
+    .then((response) => {
+      return response.json();
+    })
+
+    .then((data) => {
+      progData = data;
+      console.log(progData);
+    })
+    .catch((error) => {
+      error = 'lol error';
+      console.log(error);
+    });
+};
+fetchy();
+console.log(progData);
 const cineProg = (movie) => {
   const main = document.querySelector('main');
 
