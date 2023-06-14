@@ -90,7 +90,6 @@ const cineProg = (movie) => {
 
   section.append(movieCard);
 
-  figure.style = 'max-width:33%';
   filmImg.style = 'width:100%; auto: 100%;';
   topCard.style = 'display:flex';
   section.style = 'display:flex; flex-flow:row wrap';
@@ -122,6 +121,7 @@ fetchy((data) => {
 //   p.setAttribute('minlength', '6');
 // });
 let prevClick = null;
+let bigImg = document.querySelector('#section-view film-img');
 setTimeout(() => {
   console.log('hello');
   let movieCard = document.getElementsByClassName('movie-card');
@@ -133,19 +133,20 @@ setTimeout(() => {
     Array.from(poster).forEach((img) => {
       movie.addEventListener('click', (e) => {
         if (movie.className === 'movie-card') {
-          console.log(prevClick);
           e.currentTarget.classList.add('white');
+          let current = img.cloneNode(true);
+          current.setAttribute('class', 'big-img');
+          sectionView.append(current);
+          console.log(img.cloneNode(true));
 
-          // movie.setAttribute('class', 'white');
-          // movie.style.background = 'white';
-          // } else if (e.target) {
-          //   movie.style.background = 'red';
-          //   img.style.display = 'none';
-
-          if (prevClick !== null) {
+          if (prevClick !== null && sectionView.childNodes !== null) {
             prevClick.classList.remove('white');
+
+            bigImg.replaceWith(current);
           }
-          console.log(e.currentTarget.classList[0]);
+          console.log(sectionView.childNodes);
+          bigImg = current;
+          console.log(bigImg);
           prevClick = e.currentTarget;
           console.log(prevClick);
         }
