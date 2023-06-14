@@ -9,7 +9,7 @@
     "director": "Henri-Georges Clouzot",
     "main_actors": ["Simone Signoret", "Véra Clouzot"],
     "release": "01 Jan 2018",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzI3ZmM1ZGQtMzJlOC00NzJlLTg5NmYtM2EwNWQ2NTBlMzEyXkEyXkFqcGdeQXVyODU4MTAxMDQ@._V1_SX300.jpg"
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252142/original_168f3c1461643a332efbbe1ac925ef8c.jpg?1686735680?bc=0"
   },
   {
     "title": "Les Glaneurs et la Glaneuse",
@@ -19,7 +19,8 @@
     "description": "A documentary that explores the lives of modern-day gleaners and the treasures they find.",
     "year": 2000,
     "director": "Agnès Varda",
-    "main_actors": []
+    "main_actors": [],
+    "Poster": "https://www.cnc.fr/documents/36995/83669/FE_Les_Glaneurs_et_la_glaneuse.jpg"
   },
   {
     "title": "Fargo",
@@ -31,7 +32,7 @@
     "director": "Joel Coen",
     "main_actors": ["Frances McDormand", "William H. Macy"],
     "release": "05 Apr 1996",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    "Poster": "https://cdn.shopify.com/s/files/1/1416/8662/products/fargo_1996_original_film_art_14fcd3fc-0b6c-408c-b128-bd653787dce6.jpg?v=1638320678"
   },
   {
     "title": "A Bill of Divorcement",
@@ -53,7 +54,8 @@
     "description": "A drama film that follows the story of a young doctor working in a small town and the challenges he faces.",
     "year": 1978,
     "director": "Andrzej Wajda",
-    "main_actors": ["Zbigniew Zapasiewicz", "Ewa Dalkowska"]
+    "main_actors": ["Zbigniew Zapasiewicz", "Ewa Dalkowska"],
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252046/original_9bddaf346bd4d05a8e9856eb8ac1e6a2.png?1686734790?bc=0"
   },
   {
     "title": "Lost Horizon",
@@ -75,7 +77,8 @@
     "description": "A drama film that explores the lives of two young women struggling with hunger and homelessness.",
     "year": 1984,
     "director": "Agnès Varda",
-    "main_actors": ["Sandrine Bonnaire"]
+    "main_actors": ["Sandrine Bonnaire"],
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252070/original_045a7f1b0118892e267bce0f6cbe27ed.png?1686735017?bc=0"
   },
   {
     "title": "La ville est tranquille",
@@ -87,7 +90,7 @@
     "director": "Robert Guédiguian",
     "main_actors": ["Ariane Ascaride", "Jean-Pierre Darroussin"],
     "release": "17 Jan 2001",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTQ4MTAxMl5BMl5BanBnXkFtZTcwNjE5NzUxMQ@@._V1_SX300.jpg"
+    "Poster": "https://www.agatfilms-exnihilo.com/app/uploads/2020/02/La_Ville_est_Tranquille-scaled.jpg"
   },
   {
     "title": "Old Boy",
@@ -99,7 +102,7 @@
     "director": "Park Chan-wook",
     "main_actors": ["Choi Min-sik", "Yoo Ji-tae"],
     "release": "04 Mar 2018",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzE4ZGNhYTctZjVkNi00MDVlLWIyMTYtZTFhMGFhYWIyZWU4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_SX300.jpg"
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252114/original_65abe96e9f0d5a5b436b81f275a4bbf0.png?1686735414?bc=0"
   },
   {
     "title": "Black Narcissus",
@@ -123,7 +126,7 @@
     "director": "Lowell Sherman",
     "main_actors": ["Katharine Hepburn", "Douglas Fairbanks Jr."],
     "release": "10 Nov 2010",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTc2ODYzYTktMWIzYy00NDA2LTgwYTItMmVmZWUwYzM3NzNiXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_SX300.jpg"
+    "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jp92gr0EWgYQxoGcY5GQaV3kmax.jpg"
   },
   {
     "title": "Les Diaboliques",
@@ -135,7 +138,7 @@
     "director": "Henri-Georges Clouzot",
     "main_actors": ["Simone Signoret", "Véra Clouzot"],
     "release": "01 Jan 2018",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzI3ZmM1ZGQtMzJlOC00NzJlLTg5NmYtM2EwNWQ2NTBlMzEyXkEyXkFqcGdeQXVyODU4MTAxMDQ@._V1_SX300.jpg"
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252142/original_168f3c1461643a332efbbe1ac925ef8c.jpg?1686735680?bc=0"
   },
   {
     "title": "Die Weisse Holle von Piz Palü",
@@ -145,17 +148,19 @@
     "description": "An adventure film about a group of mountaineers who face life-threatening challenges in the Swiss Alps.",
     "year": 1929,
     "director": "Arnold Fanck, Georg Wilhelm Pabst",
-    "main_actors": ["Leni Riefenstahl", "Gustav Diessl"]
+    "main_actors": ["Leni Riefenstahl", "Gustav Diessl"],
+    "Poster": "https://m.media-amazon.com/images/I/81LerLloM8L.jpg"
   },
   {
-    "title": "La Mort suspendue",
+    "title": "Touching the Void",
     "time": "21:15",
     "location": "Ledoux",
     "genre": "Adventure",
     "description": "An adventure documentary that tells the harrowing story of two mountaineers and their struggle for survival.",
     "year": 2003,
     "director": "Kevin Macdonald",
-    "main_actors": []
+    "main_actors": [],
+    "Poster": "https://360extremes.files.wordpress.com/2013/04/touching-the-void.jpg"
   },
   {
     "title": "Otec Sergej",
@@ -165,7 +170,8 @@
     "description": "A drama film that follows the story of a Russian Orthodox priest and his spiritual journey.",
     "year": 1917,
     "director": "Yakov Protazanov",
-    "main_actors": ["Ivan Mozzhukhin", "Vera Orlova"]
+    "main_actors": ["Ivan Mozzhukhin", "Vera Orlova"],
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252212/original_f778f3063ae48a548ef601847ecbbbbe.png?1686736297?bc=0"
   },
   {
     "title": "Little Women",
@@ -173,11 +179,10 @@
     "location": "ledoux",
     "genre": "Drama",
     "description": "A drama film that portrays the lives and struggles of four sisters growing up during the Civil War.",
-    "year": 2019,
-    "director": "Greta Gerwig",
-    "main_actors": ["Saoirse Ronan", "Emma Watson"],
-    "release": "25 Dec 2019",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    "year": 1933,
+    "director": "George Cukor",
+    "main_actors": ["Katharine Hepburn", "Joan Bennett", "Paul Lukas"],
+    "Poster": "https://d2w9rnfcy7mm78.cloudfront.net/22252201/original_319dd17d64df4f461cbe0e0ff87805d1.png?1686736145?bc=0"
   },
   {
     "title": "Les Glaneurs et la Glaneuse",
@@ -187,7 +192,8 @@
     "description": "A documentary that explores the lives of modern-day gleaners and the treasures they find.",
     "year": 2000,
     "director": "Agnès Varda",
-    "main_actors": []
+    "main_actors": [],
+    "Poster": "https://www.cnc.fr/documents/36995/83669/FE_Les_Glaneurs_et_la_glaneuse.jpg"
   },
   {
     "title": "Fargo",
@@ -199,7 +205,7 @@
     "director": "Joel Coen",
     "main_actors": ["Frances McDormand", "William H. Macy"],
     "release": "05 Apr 1996",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    "Poster": "https://cdn.shopify.com/s/files/1/1416/8662/products/fargo_1996_original_film_art_14fcd3fc-0b6c-408c-b128-bd653787dce6.jpg?v=1638320678"
   },
   {
     "title": "Valkoinen Peura",
@@ -209,7 +215,8 @@
     "description": "A fantasy film based on Finnish mythology that tells the story of a woman who transforms into a reindeer.",
     "year": 1952,
     "director": "Erik Blomberg",
-    "main_actors": ["Mirjami Kuosmanen", "Kalervo Nissilä"]
+    "main_actors": ["Mirjami Kuosmanen", "Kalervo Nissilä"],
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGIzODRiZTMtYWI0MC00MDlkLWJhNjEtOGY4MTJlZWVhZjgwXkEyXkFqcGdeQXVyMjc1NjE1MzM@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "title": "Ivanovo Detstvo",
@@ -219,7 +226,8 @@
     "description": "A war drama film that follows the story of a young boy who becomes a spy for the Soviet army during World War II.",
     "year": 1962,
     "director": "Andrei Tarkovsky",
-    "main_actors": ["Nikolay Burlyaev", "Valentin Zubkov"]
+    "main_actors": ["Nikolay Burlyaev", "Valentin Zubkov"],
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGE5ZTMxNGEtZDQ4YS00ZmIxLTlhZGYtYjVjMzA3NTA2N2E2XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg"
   },
   {
     "title": "La ville est tranquille",
@@ -231,6 +239,6 @@
     "director": "Robert Guédiguian",
     "main_actors": ["Ariane Ascaride", "Jean-Pierre Darroussin"],
     "release": "17 Jan 2001",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTQ4MTAxMl5BMl5BanBnXkFtZTcwNjE5NzUxMQ@@._V1_SX300.jpg"
+    "Poster": "https://www.agatfilms-exnihilo.com/app/uploads/2020/02/La_Ville_est_Tranquille-scaled.jpg"
   }
 ]

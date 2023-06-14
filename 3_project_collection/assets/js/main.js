@@ -20,9 +20,28 @@ const fetchy = async (callback) => {
     });
 };
 
+// {
+//   "title": "Les Diaboliques",
+//   "time": "15:00",
+//   "location": "ledoux",
+//   "genre": "Thriller",
+//   "description": "A suspenseful thriller about a plot to murder a man and the subsequent events.",
+//   "year": 1955,
+//   "director": "Henri-Georges Clouzot",
+//   "main_actors": ["Simone Signoret", "Véra Clouzot"],
+//   "release": "01 Jan 2018",
+//   "Poster": "https://m.media-amazon.com/images/M/MV5BYzI3ZmM1ZGQtMzJlOC00NzJlLTg5NmYtM2EwNWQ2NTBlMzEyXkEyXkFqcGdeQXVyODU4MTAxMDQ@._V1_SX300.jpg"
+// },
+let section = document.createElement('section');
+let sectionView = document.createElement('section');
+sectionView.setAttribute('id', 'section-view');
+let mainpart = document.querySelector('main');
+mainpart.append(section);
+mainpart.append(sectionView);
 const cineProg = (movie) => {
   const main = document.querySelector('main');
 
+  const section = document.querySelector('section');
   let movieCard = document.createElement('div');
   movieCard.setAttribute('class', 'movie-card');
 
@@ -50,6 +69,10 @@ const cineProg = (movie) => {
   let movieDirector = document.createElement('h3');
   ////
   ////
+  let descriptionP = document.createElement('p');
+  descriptionP.innerText = movie.description;
+
+  filmImg.src = movie.Poster;
   movieTitle.innerText = movie.title;
   movieDirector.innerText = movie.director;
   liEl.innerText = movie.genre;
@@ -58,6 +81,7 @@ const cineProg = (movie) => {
 
   ////
   ////
+  bottomCard.append(descriptionP);
   uList.append(liEl);
   rightData.append(uList);
 
@@ -74,7 +98,13 @@ const cineProg = (movie) => {
   movieCard.append(topCard);
   movieCard.append(bottomCard);
 
-  main.append(movieCard);
+  section.append(movieCard);
+
+  figure.style = 'max-width:33%';
+  filmImg.style = 'width:100%; auto: 100%;';
+  topCard.style = 'display:flex';
+  section.style = 'display:flex; flex-flow:row wrap';
+  movieCard.style = 'display:flex;flex-flow:column wrap;';
 };
 
 fetchy((data) => {
