@@ -1,7 +1,6 @@
-const progData = [];
-
-const fetchy = (progData) => {
-  fetch('./assets/js/json/cine.json', {
+const fetchy = async (callback) => {
+  let progData;
+  await fetch('./assets/js/json/cine.json', {
     headers: {
       'Content-Type': 'application/json',
       Accept: 'application/json',
@@ -13,15 +12,14 @@ const fetchy = (progData) => {
 
     .then((data) => {
       progData = data;
-      console.log(progData);
+      callback(progData);
     })
     .catch((error) => {
       error = 'lol error';
       console.log(error);
     });
 };
-fetchy();
-console.log(progData);
+
 const cineProg = (movie) => {
   const main = document.querySelector('main');
 
@@ -79,8 +77,10 @@ const cineProg = (movie) => {
   main.append(movieCard);
 };
 
-progData.forEach((el) => {
-  cineProg(el);
+fetchy((data) => {
+  data.forEach((el) => {
+    cineProg(el);
+  });
 });
 
 // load json async later https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
