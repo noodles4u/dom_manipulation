@@ -20,18 +20,8 @@ const fetchy = async (callback) => {
     });
 };
 
-// {
-//   "title": "Les Diaboliques",
-//   "time": "15:00",
-//   "location": "ledoux",
-//   "genre": "Thriller",
-//   "description": "A suspenseful thriller about a plot to murder a man and the subsequent events.",
-//   "year": 1955,
-//   "director": "Henri-Georges Clouzot",
-//   "main_actors": ["Simone Signoret", "Véra Clouzot"],
-//   "release": "01 Jan 2018",
-//   "Poster": "https://m.media-amazon.com/images/M/MV5BYzI3ZmM1ZGQtMzJlOC00NzJlLTg5NmYtM2EwNWQ2NTBlMzEyXkEyXkFqcGdeQXVyODU4MTAxMDQ@._V1_SX300.jpg"
-// },
+////
+
 let section = document.createElement('section');
 let sectionView = document.createElement('section');
 sectionView.setAttribute('id', 'section-view');
@@ -126,3 +116,27 @@ fetchy((data) => {
 
 // attribution.append(imgAttr);
 // document.body.append(attribution);
+
+// pwd.forEach((p) => {
+//   p.setAttribute('value', 'submit');
+//   p.setAttribute('minlength', '6');
+// });
+
+setTimeout(() => {
+  console.log('hello');
+  let movieCard = document.getElementsByClassName('movie-card');
+
+  Array.from(movieCard).forEach((movie) => {
+    let poster = movie.getElementsByClassName('film-img');
+    Array.from(poster).forEach((img) => {
+      movie.addEventListener('click', (e) => {
+        if (e.target) {
+          movie.style.background = 'red';
+          img.style.display = 'none';
+        } else {
+          movie.style.background = 'white';
+        }
+      });
+    });
+  });
+}, 200);
