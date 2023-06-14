@@ -121,20 +121,33 @@ fetchy((data) => {
 //   p.setAttribute('value', 'submit');
 //   p.setAttribute('minlength', '6');
 // });
-
+let prevClick = null;
 setTimeout(() => {
   console.log('hello');
   let movieCard = document.getElementsByClassName('movie-card');
-
+  // let white = setAttribute('class', 'white');
+  // let red = setAttribute('class', 'red');
+  // white.style = 'background:white; border: 2px solid blue;';
   Array.from(movieCard).forEach((movie) => {
     let poster = movie.getElementsByClassName('film-img');
     Array.from(poster).forEach((img) => {
       movie.addEventListener('click', (e) => {
-        if (e.target) {
-          movie.style.background = 'red';
-          img.style.display = 'none';
-        } else {
-          movie.style.background = 'white';
+        if (movie.className === 'movie-card') {
+          console.log(prevClick);
+          e.currentTarget.classList.add('white');
+
+          // movie.setAttribute('class', 'white');
+          // movie.style.background = 'white';
+          // } else if (e.target) {
+          //   movie.style.background = 'red';
+          //   img.style.display = 'none';
+
+          if (prevClick !== null) {
+            prevClick.classList.remove('white');
+          }
+          console.log(e.currentTarget.classList[0]);
+          prevClick = e.currentTarget;
+          console.log(prevClick);
         }
       });
     });
