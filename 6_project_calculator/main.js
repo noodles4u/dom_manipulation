@@ -61,18 +61,35 @@ const createBlocks = (blocks) => {
 
 createBlocks(20);
 
-let testString = '';
 let arrInput = [];
-/// Calc functions
-// const calc = (input) => {
-//   arrInput.forEach((el) => {});
+//Calc functions
+
+// const initial = 0;
+// const calc = arrInput.reduce(
+//   (el, currentEL) => parseFloat(el) + parseFloat(currentEL),
+//   initial,
+// );
+
+// const array1 = ['3', '2', '+', '2'];
+// let initial = 0;
+// const calc = () => {
+//   for (let i = 0; i < array1.length; i++) {
+//     let a = initial + array1[i];
+//     initial = a;
+//     console.log(a);
+//   }
+//   let aah = Number('1+3*6');
+//   return aah;
 // };
 
 /// CSS style for calculator
 calcSection.style =
   'background:coral; padding: 1em; font-family:system-ui;display:grid;gap: 1rem; grid-template-columns:repeat(4,1fr);';
 
-/// Click Event
+const calcString = (array) => {
+  return array.join('');
+};
+// Click Event
 let div = document.querySelectorAll('div');
 Array.from(div).forEach((el) => {
   el.addEventListener('click', (e) => {
@@ -82,12 +99,11 @@ Array.from(div).forEach((el) => {
           displayView.append(e.currentTarget.firstChild.innerText),
           (e.currentTarget.style = 'border: 1px dotted yellow'),
           //   testString.append(e.currentTarget.firstChild.innerText),
+
           arrInput.push(e.currentTarget.firstChild.innerText),
         ]
       : null;
   });
 });
-const calcString = () => {
-  console.log(arrInput.join(''));
-};
-console.log(arrInput.Number.join(''));
+
+console.log(computeResult(calcString(arrInput)));
