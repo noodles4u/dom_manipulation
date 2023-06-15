@@ -60,15 +60,34 @@ const createBlocks = (blocks) => {
 };
 
 createBlocks(20);
+
+let testString = '';
+let arrInput = [];
+/// Calc functions
+// const calc = (input) => {
+//   arrInput.forEach((el) => {});
+// };
+
+/// CSS style for calculator
 calcSection.style =
   'background:coral; padding: 1em; font-family:system-ui;display:grid;gap: 1rem; grid-template-columns:repeat(4,1fr);';
 
+/// Click Event
 let div = document.querySelectorAll('div');
 Array.from(div).forEach((el) => {
   el.addEventListener('click', (e) => {
     // console.log(e.currentTarget.firstChild);
     (e.target.className == 'box') | (e.target.parentElement.className == 'box')
-      ? displayView.append(e.currentTarget.firstChild.innerText)
+      ? [
+          displayView.append(e.currentTarget.firstChild.innerText),
+          (e.currentTarget.style = 'border: 1px dotted yellow'),
+          //   testString.append(e.currentTarget.firstChild.innerText),
+          arrInput.push(e.currentTarget.firstChild.innerText),
+        ]
       : null;
   });
 });
+const calcString = () => {
+  console.log(arrInput.join(''));
+};
+console.log(arrInput.Number.join(''));
