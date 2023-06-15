@@ -5,10 +5,19 @@ function computeResult(str) {
 }
 
 const a = '(13 + 17) / 3';
-
 console.log(computeResult(a)); // Should display 10
-let main = document.querySelector('main');
 
+//
+let main = document.querySelector('main');
+document.body.style = 'font-family:system-ui';
+
+let displayView = document.createElement('p');
+displayView.style = 'text-align:right';
+
+let displaySection = document.createElement('section');
+
+displaySection.append(displayView);
+main.append(displaySection);
 let calcSection = document.createElement('section');
 main.append(calcSection);
 
@@ -57,8 +66,9 @@ calcSection.style =
 let div = document.querySelectorAll('div');
 Array.from(div).forEach((el) => {
   el.addEventListener('click', (e) => {
+    // console.log(e.currentTarget.firstChild);
     (e.target.className == 'box') | (e.target.parentElement.className == 'box')
-      ? (e.currentTarget.style = 'background:yellow')
+      ? displayView.append(e.currentTarget.firstChild.innerText)
       : null;
   });
 });
