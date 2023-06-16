@@ -18,7 +18,9 @@ let displaySection = document.createElement('section');
 
 displaySection.append(displayView);
 main.append(displaySection);
+
 let calcSection = document.createElement('section');
+
 main.append(calcSection);
 
 let calcArray = [
@@ -46,7 +48,7 @@ let calcArray = [
 console.log(calcArray.length);
 
 ////
-const createBlocks = (blocks) => {
+const createBlocks = () => {
   calcArray.forEach((item) => {
     let div = document.createElement('div');
     let p = document.createElement('p');
@@ -85,10 +87,19 @@ let arrInput = [];
 /// CSS style for calculator
 calcSection.style =
   'background:coral; padding: 1em; font-family:system-ui;display:grid;gap: 1rem; grid-template-columns:repeat(4,1fr);';
+displaySection.style =
+  'background:green; padding: 1em; display:block;min-height:3.3em';
 
 const calcString = (array) => {
   return array.join('');
 };
+
+// create css class
+let style;
+// document.getElementsByTagName('head')[0].appendChild(style);
+// style = s
+// document.getElementById('someElementId').className = 'clicked';
+
 // Click Event
 let div = document.querySelectorAll('div');
 Array.from(div).forEach((el) => {
@@ -96,20 +107,35 @@ Array.from(div).forEach((el) => {
     console.log(e.currentTarget.firstChild);
     // ternary operator
     e.currentTarget.firstChild.innerText === 'AC'
-      ? [(displayView.innerText = ''), (arrInput = [])]
+      ? [
+          (displayView.innerText = ''),
+          (arrInput = []),
+          (el.style.border = '1px dotted black'),
+          Array.from(div).forEach((item) => {
+            item.style = 'border:1px dotted black; background:white;';
+          }),
+        ]
       : e.currentTarget.firstChild.innerText === '='
       ? [
           (displayView.innerText = computeResult(calcString(arrInput))),
           (arrInput = [computeResult(calcString(arrInput))]),
+          (displaySection.style.background = 'blue'),
+          (displayView.style.color = 'white'),
+          Array.from(div).forEach((item) => {
+            item.style = 'border:1px dotted black; background:white;';
+          }),
         ]
       : e.target.className == 'box' || e.target.parentElement.className == 'box'
       ? [
           displayView.append(e.currentTarget.firstChild.innerText),
           (e.currentTarget.style = 'border: 1px dotted yellow'),
-          //   testString.append(e.currentTarget.firstChild.innerText),
+          (style = document.createElement('style')),
+          (style.innerHTML = '.clicked { color: #f00; }'),
+          e.currentTarget.appendChild(style),
 
           arrInput.push(e.currentTarget.firstChild.innerText),
         ]
-      : null;
+      : (displayView.innerText =
+          'It seems like something went wrong, our excuses');
   });
 });
