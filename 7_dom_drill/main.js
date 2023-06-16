@@ -105,7 +105,6 @@ select = document.querySelector('select');
 select.addEventListener('change', (e) => {
   switch (e.target.value) {
     case 'important franchise':
-      impo.style.background = 'red';
       console.log('hello');
       for (item of itemsLi) {
         if (item.className !== 'important' && item.nodeType === 1) {

@@ -93,8 +93,16 @@ const calcString = (array) => {
 let div = document.querySelectorAll('div');
 Array.from(div).forEach((el) => {
   el.addEventListener('click', (e) => {
-    // console.log(e.currentTarget.firstChild);
-    (e.target.className == 'box') | (e.target.parentElement.className == 'box')
+    console.log(e.currentTarget.firstChild);
+    // ternary operator
+    e.currentTarget.firstChild.innerText === 'AC'
+      ? [(displayView.innerText = ''), (arrInput = [])]
+      : e.currentTarget.firstChild.innerText === '='
+      ? [
+          (displayView.innerText = computeResult(calcString(arrInput))),
+          (arrInput = [computeResult(calcString(arrInput))]),
+        ]
+      : e.target.className == 'box' || e.target.parentElement.className == 'box'
       ? [
           displayView.append(e.currentTarget.firstChild.innerText),
           (e.currentTarget.style = 'border: 1px dotted yellow'),
@@ -105,5 +113,3 @@ Array.from(div).forEach((el) => {
       : null;
   });
 });
-
-console.log(computeResult(calcString(arrInput)));
